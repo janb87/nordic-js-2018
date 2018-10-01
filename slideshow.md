@@ -98,6 +98,13 @@ Jan Bevers
 
 ---
 
+# Other interesting talks
+
+1. [Test automation using Puppeteer](https://noti.st/trentmwillis/wls5J4/powerful-automation-with-the-chrome-devtools-protocol)
+2. The Matrix is Everywhere: A Primer on Projections in Web Graphics (Lauren Budorick), [GitHub examples](https://github.com/lbud/matrix-playground)
+
+---
+
 # Probably too early, but interesting
 
 1. CSS/Houdini - Lower-level CSS DOM API
