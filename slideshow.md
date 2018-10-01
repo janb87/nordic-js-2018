@@ -114,8 +114,10 @@ Jan Bevers
 1. [Ligthouse](https://developers.google.com/web/tools/lighthouse/) - Lighthouse is an open-source, automated tool for improving the quality of web pages
 2. [Zeplin](https://zeplin.io/) - Handoff designs and styleguides with accurate specs, assets, code snippets—automatically
 3. [FontFaceObserver](https://fontfaceobserver.com/) - Font Face Observer is a fast and simple web font loader. You can use it to load fonts and customise your browser’s font loading behaviour.
-4. Use placeholders instead of loaders (eg [react placeholder](https://github.com/buildo/react-placeholder))
-5. Keep experimenting, don't be scared to take some risk.
+4. [Variable fonts](https://caniuse.com/#feat=variable-fonts)
+5. Use placeholders instead of loaders (eg [react placeholder](https://github.com/buildo/react-placeholder))
+
+*Keep experimenting, don't be scared to take some risk*
 
 <iframe src="https://giphy.com/embed/PlnQNcQ4RYOhG" width="240" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
